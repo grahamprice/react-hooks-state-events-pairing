@@ -1,7 +1,8 @@
+import React from "react";
 import video from "../data/video.js";
 
 function App() {
-  console.log("Here's your data:", video);
+  // console.log("Here's your data:", video);
 
   return (
     <div className="App">
